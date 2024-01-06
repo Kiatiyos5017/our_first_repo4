@@ -1,6 +1,11 @@
 A
+<<<<<<< HEAD
 B BBB
 C
+=======
+B
+C CCC
+>>>>>>> origin/C1
 D
 E
 F
