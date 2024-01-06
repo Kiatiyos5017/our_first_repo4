@@ -1,6 +1,13 @@
 A
+<<<<<<< HEAD
 B 
 C 
 D DDD
 E
+=======
+B
+C
+D
+E EEE
+>>>>>>> E1
 F
