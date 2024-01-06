@@ -1,6 +1,6 @@
 A
-B BBB
-C CCC
-D
+B 
+C 
+D DDD
 E
 F
